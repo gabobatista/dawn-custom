@@ -211,13 +211,9 @@
         "padding_bottom": 36
       }
     },
-    "2d26bd04-16f5-4971-b501-0dc49d29fc41": {
-      "type": "custom-liquid",
+    "022e18dd-b5bf-4c2b-b12f-42914c1c5acc": {
+      "type": "test",
       "settings": {
-        "custom_liquid": "<div class=\"font-sans flex items-center justify-center bg-blue-darker w-full py-8\">\n                <div class=\"overflow-hidden bg-white rounded max-w-xs w-full shadow-lg  leading-normal\">\n                    <a href=\"#\" class=\"block group hover:bg-blue p-4 border-b\">\n                        <p class=\"font-bold text-lg mb-1 text-black group-hover:text-white\">Create from scratch<\/p>\n                        <p class=\"text-grey-darker mb-2 group-hover:text-white\">Create a repository without any source code<\/p>\n                    <\/a>\n                    <a href=\"#\" class=\"block group hover:bg-blue p-4\">\n                        <p class=\"font-bold text-lg mb-1 text-black group-hover:text-white\">Fork<\/p>\n                        <p class=\"twcss-text-grey-darker twcss-mb-2 group-hover:twcss-text-white\">Start a project base on the source of an existing one.<\/p>\n                    <\/a>\n                <\/div>\n            <\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     }
   },
@@ -228,6 +224,6 @@
     "collage",
     "video",
     "multicolumn",
-    "2d26bd04-16f5-4971-b501-0dc49d29fc41"
+    "022e18dd-b5bf-4c2b-b12f-42914c1c5acc"
   ]
 }
